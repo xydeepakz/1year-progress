@@ -1,4 +1,4 @@
 # 1year-progress
 This is my first Git Repository.
-<hr>
+<hr style="height:1px;">
 Author - Deepak Rajput
