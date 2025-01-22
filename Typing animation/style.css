@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+#result{
+    display: inline;
+    color: aqua;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: sans-serif;
+    text-shadow: -3px 3px green;
+    filter: drop-shadow(2px 2px 2px blue);
+    border-right: 2px solid rgba(0, 0, 0, 0.6);
+}
